@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.cs text eol=lf
+*.shader text eol=lf
+*.md text eol=lf
+*.ps1 text eol=crlf
+*.png binary
+*.jpg binary
+*.fbx binary
+*.wav binary

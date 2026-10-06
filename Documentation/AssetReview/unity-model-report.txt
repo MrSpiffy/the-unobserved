@@ -1,0 +1,226 @@
+Assets/ThirdParty/KenneyFactory/Models/box-large.fbx SIZE=(1.100, 0.550, 1.000) MIN=(-0.550, 0.000, -0.500)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/catwalk-corner.fbx SIZE=(1.154, 0.601, 1.154) MIN=(0.000, -0.147, 0.000)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/catwalk-stairs.fbx SIZE=(2.000, 1.400, 1.255) MIN=(-1.500, 0.000, -0.628)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/catwalk-straight.fbx SIZE=(1.000, 0.601, 1.255) MIN=(-0.500, -0.147, -0.628)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/crane-lift.fbx SIZE=(0.717, 2.500, 0.717) MIN=(-0.358, -2.250, -0.358)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/floor.fbx SIZE=(1.000, 0.000, 1.000) MIN=(-0.500, 0.000, -0.500)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/hopper-high-round.fbx SIZE=(1.118, 1.500, 1.118) MIN=(-0.559, 0.000, -0.559)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/machine-connection-pipe.fbx SIZE=(1.200, 1.750, 1.500) MIN=(-0.600, 0.000, -0.750)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/machine-fortified.fbx SIZE=(1.200, 1.350, 1.600) MIN=(-0.600, 0.000, -0.800)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/machine-window.fbx SIZE=(1.200, 1.290, 1.500) MIN=(-0.600, 0.000, -0.750)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+  MATERIAL material-glass COLOR RGBA(0.892, 0.922, 1.000, 1.000) TEX none
+Assets/ThirdParty/KenneyFactory/Models/machine.fbx SIZE=(1.200, 1.300, 1.500) MIN=(-0.600, 0.000, -0.750)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/pipe-large-bend.fbx SIZE=(1.900, 1.000, 1.900) MIN=(-1.000, 0.000, -1.400)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/pipe-large-junction.fbx SIZE=(2.056, 2.056, 1.000) MIN=(-1.000, 0.000, -0.500)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/pipe-large-long.fbx SIZE=(2.000, 1.000, 1.000) MIN=(-1.000, 0.000, -0.500)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/pipe-large-valve.fbx SIZE=(1.000, 1.000, 1.016) MIN=(-0.500, 0.000, -0.516)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/piston-round.fbx SIZE=(1.000, 1.000, 1.000) MIN=(-0.500, 0.000, -0.500)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/screen-panel-small.fbx SIZE=(0.600, 0.991, 0.657) MIN=(-0.300, 0.000, -0.329)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/screen-small.fbx SIZE=(0.600, 0.991, 0.499) MIN=(-0.300, 0.000, -0.171)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/structure-doorway-wide.fbx SIZE=(2.000, 3.000, 2.000) MIN=(-1.000, 0.000, -0.500)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/structure-tall.fbx SIZE=(0.300, 2.000, 1.100) MIN=(-0.150, 0.000, -0.550)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/structure-wall.fbx SIZE=(1.000, 3.000, 2.000) MIN=(-0.500, 0.000, -0.500)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFactory/Models/structure-window.fbx SIZE=(1.000, 3.000, 2.000) MIN=(-0.500, 0.000, -0.500)
+  MATERIAL colormap COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX colormap
+Assets/ThirdParty/KenneyFurniture/Models/bench.fbx SIZE=(4.000, 4.700, 2.000) MIN=(0.000, 0.000, 0.000)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/benchCushion.fbx SIZE=(4.000, 4.600, 2.000) MIN=(0.000, 0.000, 0.000)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL carpet COLOR RGBA(0.943, 0.367, 0.343, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/bookcaseClosed.fbx SIZE=(4.000, 8.500, 2.500) MIN=(0.000, 0.000, 0.000)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/bookcaseClosedDoors.fbx SIZE=(4.000, 8.500, 2.500) MIN=(0.000, 0.000, 0.000)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/bookcaseOpen.fbx SIZE=(4.000, 8.800, 2.500) MIN=(0.000, 0.000, 0.000)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/books.fbx SIZE=(1.504, 1.039, 0.945) MIN=(0.000, 0.000, 0.000)
+  MATERIAL carpetDarker COLOR RGBA(0.608, 0.298, 0.285, 1.000) TEX none
+  MATERIAL carpetWhite COLOR RGBA(0.973, 1.000, 1.000, 1.000) TEX none
+  MATERIAL plant COLOR RGBA(0.182, 0.821, 0.576, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/cardboardBoxClosed.fbx SIZE=(2.125, 2.810, 2.125) MIN=(0.000, 0.000, 0.000)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL woodDark COLOR RGBA(0.678, 0.456, 0.299, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/chairDesk.fbx SIZE=(3.350, 6.076, 3.143) MIN=(0.000, 0.000, 0.000)
+  MATERIAL metalMedium COLOR RGBA(0.369, 0.467, 0.467, 1.000) TEX none
+  MATERIAL carpet COLOR RGBA(0.943, 0.367, 0.343, 1.000) TEX none
+  MATERIAL metalMedium COLOR RGBA(0.369, 0.467, 0.467, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/computerKeyboard.fbx SIZE=(2.822, 0.276, 1.182) MIN=(0.000, 0.000, 0.000)
+  MATERIAL metalDark COLOR RGBA(0.306, 0.388, 0.388, 1.000) TEX none
+  MATERIAL metalMedium COLOR RGBA(0.369, 0.467, 0.467, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/computerScreen.fbx SIZE=(3.927, 2.943, 1.040) MIN=(0.000, 0.000, 0.000)
+  MATERIAL metalDark COLOR RGBA(0.306, 0.388, 0.388, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/desk.fbx SIZE=(7.345, 3.844, 3.923) MIN=(-0.100, 0.000, -0.123)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/doorway.fbx SIZE=(4.860, 10.095, 1.134) MIN=(0.000, 0.000, -0.122)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/kitchenBar.fbx SIZE=(4.300, 4.200, 2.100) MIN=(0.000, 0.000, 0.000)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+  MATERIAL woodDark COLOR RGBA(0.678, 0.456, 0.299, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/kitchenBarEnd.fbx SIZE=(1.016, 4.200, 2.100) MIN=(0.000, 0.000, 0.000)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/kitchenCabinetDrawer.fbx SIZE=(4.300, 4.500, 4.500) MIN=(0.000, 0.000, 0.000)
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL woodDark COLOR RGBA(0.678, 0.456, 0.299, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+  MATERIAL woodDark COLOR RGBA(0.678, 0.456, 0.299, 1.000) TEX none
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/lampSquareCeiling.fbx SIZE=(1.200, 2.300, 1.200) MIN=(0.000, 0.000, 0.000)
+  MATERIAL lamp COLOR RGBA(1.000, 0.914, 0.588, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/lampWall.fbx SIZE=(2.266, 0.928, 1.503) MIN=(-1.133, 0.000, -1.503)
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+  MATERIAL lamp COLOR RGBA(1.000, 0.914, 0.588, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/loungeChair.fbx SIZE=(4.900, 4.600, 4.100) MIN=(0.000, 0.000, 0.000)
+  MATERIAL carpet COLOR RGBA(0.943, 0.367, 0.343, 1.000) TEX none
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/loungeSofa.fbx SIZE=(9.800, 4.600, 4.100) MIN=(0.000, 0.000, 0.000)
+  MATERIAL carpet COLOR RGBA(0.943, 0.367, 0.343, 1.000) TEX none
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/paneling.fbx SIZE=(5.000, 5.948, 0.300) MIN=(0.000, 0.000, -0.300)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/pottedPlant.fbx SIZE=(2.121, 6.540, 2.415) MIN=(-1.060, 0.000, -1.207)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL woodDark COLOR RGBA(0.678, 0.456, 0.299, 1.000) TEX none
+  MATERIAL plant COLOR RGBA(0.182, 0.821, 0.576, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/stairs.fbx SIZE=(18.234, 13.395, 7.900) MIN=(0.000, 0.000, 0.000)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL woodDark COLOR RGBA(0.678, 0.456, 0.299, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/stairsOpen.fbx SIZE=(18.234, 13.395, 7.900) MIN=(0.000, 0.000, 0.000)
+  MATERIAL woodDark COLOR RGBA(0.678, 0.456, 0.299, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/tableCoffee.fbx SIZE=(6.610, 2.300, 4.000) MIN=(-4.610, 0.000, -1.000)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/trashcan.fbx SIZE=(2.077, 4.279, 2.341) MIN=(-1.038, 0.000, -1.225)
+  MATERIAL metal COLOR RGBA(0.741, 0.823, 0.840, 1.000) TEX none
+  MATERIAL metalDark COLOR RGBA(0.306, 0.388, 0.388, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/wall.fbx SIZE=(10.000, 12.895, 0.500) MIN=(0.000, 0.000, 0.000)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL _defaultMat COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX none
+  MATERIAL metalDark COLOR RGBA(0.306, 0.388, 0.388, 1.000) TEX none
+Assets/ThirdParty/KenneyFurniture/Models/wallWindow.fbx SIZE=(10.000, 12.895, 0.891) MIN=(0.000, 0.000, -0.196)
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+  MATERIAL metalDark COLOR RGBA(0.306, 0.388, 0.388, 1.000) TEX none
+  MATERIAL _defaultMat COLOR RGBA(1.000, 1.000, 1.000, 1.000) TEX none
+  MATERIAL glass COLOR RGBA(0.698, 0.827, 0.769, 0.302) TEX none
+  MATERIAL wood COLOR RGBA(0.896, 0.602, 0.393, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/BottomSimple_Straight.fbx SIZE=(0.600, 0.020, 4.000) MIN=(1.400, 0.000, -2.000)
+  MATERIAL MI_Trim_03_Dark COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Column_MetalSupport.fbx SIZE=(0.957, 0.044, 4.000) MIN=(-0.486, -0.022, -2.000)
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_PaddedWall COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Column_Pipes.fbx SIZE=(0.875, 5.000, 0.875) MIN=(-0.437, 0.000, -0.437)
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_PaddedWall COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Column_Round.fbx SIZE=(1.000, 5.000, 1.000) MIN=(-0.500, 0.000, -0.500)
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Column_Simple.fbx SIZE=(0.507, 5.000, 0.975) MIN=(-0.253, 0.000, -0.506)
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Door_Frame_Square.fbx SIZE=(4.853, 5.013, 0.507) MIN=(-2.427, -0.013, -0.253)
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Door_Simple.fbx SIZE=(2.106, 4.049, 0.273) MIN=(0.000, 0.000, -0.136)
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_03 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX T_Trim_03_BaseColor
+  MATERIAL MI_Trim_03_Dark COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Platform_Metal.fbx SIZE=(4.000, 0.000, 4.000) MIN=(-2.000, 0.000, -2.000)
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Platform_Rails_4.fbx SIZE=(2.358, 2.717, 3.803) MIN=(-1.179, 0.003, 0.099)
+  MATERIAL MI_Trim_02_Rails COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Platform_Simple.fbx SIZE=(4.000, 0.000, 4.000) MIN=(-2.000, 0.000, -2.000)
+  MATERIAL MI_Trim_03 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX T_Trim_03_BaseColor
+Assets/ThirdParty/Quaternius/Models/Platform_Stairs_4.fbx SIZE=(2.000, 2.008, 4.083) MIN=(-1.000, -0.008, 0.000)
+  MATERIAL MI_Trim_01_Stairs COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Platform_Stairs_4Wide.fbx SIZE=(4.000, 2.008, 4.083) MIN=(-2.000, -0.008, 0.000)
+  MATERIAL MI_Trim_01_Stairs COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Prop_AccessPoint.fbx SIZE=(0.441, 0.468, 1.296) MIN=(-0.221, 1.112, -0.657)
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL M_Black COLOR RGBA(0.006, 0.006, 0.006, 1.000) TEX none
+  MATERIAL M_Decal_Screen COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL M_LightFade_Red COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Prop_Cable_3.fbx SIZE=(1.560, 0.117, 5.735) MIN=(-1.408, -0.013, -2.827)
+  MATERIAL MI_Trim_03_Cables COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Prop_Computer.fbx SIZE=(0.743, 1.593, 0.562) MIN=(-0.372, -0.001, -0.216)
+  MATERIAL M_Decal_Screen COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL M_Black COLOR RGBA(0.006, 0.006, 0.006, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Prop_Fan_Small.fbx SIZE=(1.677, 0.442, 1.677) MIN=(-0.838, -0.055, -0.838)
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX T_Trim_02_BaseColor
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX T_Trim_01_BaseColor
+  MATERIAL M_Black COLOR RGBA(0.006, 0.006, 0.006, 1.000) TEX none
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX T_Trim_01_BaseColor
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX T_Trim_02_BaseColor
+Assets/ThirdParty/Quaternius/Models/Prop_Light_Wide.fbx SIZE=(2.640, 0.182, 0.445) MIN=(-1.320, -0.148, -0.223)
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL M_Light COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Prop_Rail_4.fbx SIZE=(0.067, 0.862, 3.926) MIN=(-0.034, 0.000, -3.963)
+  MATERIAL MI_Trim_02_Rails COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Prop_Vent_Big.fbx SIZE=(2.000, 0.069, 0.976) MIN=(-1.000, -0.069, -0.495)
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/Prop_Vent_Wide.fbx SIZE=(1.938, 0.060, 0.291) MIN=(-0.969, 0.000, -0.132)
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL M_Black COLOR RGBA(0.006, 0.006, 0.006, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/TopSimple_Straight.fbx SIZE=(0.000, 2.000, 4.000) MIN=(2.000, 3.000, -2.000)
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/WallAstra_Straight_Flat.fbx SIZE=(0.100, 3.000, 4.000) MIN=(2.000, 0.000, -2.000)
+  MATERIAL MI_Trim_03 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX T_Trim_03_BaseColor
+  MATERIAL MI_Trim_03_Dark COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/WallBand_Straight.fbx SIZE=(0.208, 3.000, 4.000) MIN=(1.992, 0.000, -2.000)
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL M_Decal_White COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+Assets/ThirdParty/Quaternius/Models/WallWindow_Straight.fbx SIZE=(0.320, 3.187, 4.000) MIN=(1.880, 0.000, -2.000)
+  MATERIAL MI_Trim_02 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_Trim_01 COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL M_Glass COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none
+  MATERIAL MI_PaddedWall COLOR RGBA(0.800, 0.800, 0.800, 1.000) TEX none

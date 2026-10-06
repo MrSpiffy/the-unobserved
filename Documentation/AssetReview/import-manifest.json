@@ -1,0 +1,440 @@
+[
+  {
+    "pack": "KenneyFurniture",
+    "model": "benchCushion",
+    "source": "Models/FBX format/benchCushion.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/benchCushion.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "bench",
+    "source": "Models/FBX format/bench.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/bench.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "bookcaseClosed",
+    "source": "Models/FBX format/bookcaseClosed.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/bookcaseClosed.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "bookcaseClosedDoors",
+    "source": "Models/FBX format/bookcaseClosedDoors.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/bookcaseClosedDoors.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "bookcaseOpen",
+    "source": "Models/FBX format/bookcaseOpen.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/bookcaseOpen.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "books",
+    "source": "Models/FBX format/books.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/books.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "cardboardBoxClosed",
+    "source": "Models/FBX format/cardboardBoxClosed.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/cardboardBoxClosed.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "chairDesk",
+    "source": "Models/FBX format/chairDesk.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/chairDesk.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "computerScreen",
+    "source": "Models/FBX format/computerScreen.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/computerScreen.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "computerKeyboard",
+    "source": "Models/FBX format/computerKeyboard.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/computerKeyboard.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "desk",
+    "source": "Models/FBX format/desk.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/desk.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "kitchenBar",
+    "source": "Models/FBX format/kitchenBar.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/kitchenBar.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "kitchenBarEnd",
+    "source": "Models/FBX format/kitchenBarEnd.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/kitchenBarEnd.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "kitchenCabinetDrawer",
+    "source": "Models/FBX format/kitchenCabinetDrawer.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/kitchenCabinetDrawer.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "lampSquareCeiling",
+    "source": "Models/FBX format/lampSquareCeiling.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/lampSquareCeiling.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "lampWall",
+    "source": "Models/FBX format/lampWall.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/lampWall.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "loungeChair",
+    "source": "Models/FBX format/loungeChair.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/loungeChair.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "loungeSofa",
+    "source": "Models/FBX format/loungeSofa.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/loungeSofa.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "pottedPlant",
+    "source": "Models/FBX format/pottedPlant.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/pottedPlant.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "stairs",
+    "source": "Models/FBX format/stairs.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/stairs.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "stairsOpen",
+    "source": "Models/FBX format/stairsOpen.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/stairsOpen.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "tableCoffee",
+    "source": "Models/FBX format/tableCoffee.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/tableCoffee.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "trashcan",
+    "source": "Models/FBX format/trashcan.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/trashcan.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "doorway",
+    "source": "Models/FBX format/doorway.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/doorway.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "wall",
+    "source": "Models/FBX format/wall.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/wall.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "wallWindow",
+    "source": "Models/FBX format/wallWindow.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/wallWindow.fbx"
+  },
+  {
+    "pack": "KenneyFurniture",
+    "model": "paneling",
+    "source": "Models/FBX format/paneling.fbx",
+    "path": "Assets/ThirdParty/KenneyFurniture/Models/paneling.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "catwalk-straight",
+    "source": "Models/FBX format/catwalk-straight.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/catwalk-straight.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "catwalk-stairs",
+    "source": "Models/FBX format/catwalk-stairs.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/catwalk-stairs.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "catwalk-corner",
+    "source": "Models/FBX format/catwalk-corner.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/catwalk-corner.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "machine",
+    "source": "Models/FBX format/machine.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/machine.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "machine-fortified",
+    "source": "Models/FBX format/machine-fortified.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/machine-fortified.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "machine-window",
+    "source": "Models/FBX format/machine-window.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/machine-window.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "machine-connection-pipe",
+    "source": "Models/FBX format/machine-connection-pipe.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/machine-connection-pipe.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "pipe-large-long",
+    "source": "Models/FBX format/pipe-large-long.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/pipe-large-long.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "pipe-large-bend",
+    "source": "Models/FBX format/pipe-large-bend.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/pipe-large-bend.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "pipe-large-valve",
+    "source": "Models/FBX format/pipe-large-valve.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/pipe-large-valve.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "pipe-large-junction",
+    "source": "Models/FBX format/pipe-large-junction.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/pipe-large-junction.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "structure-wall",
+    "source": "Models/FBX format/structure-wall.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/structure-wall.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "structure-window",
+    "source": "Models/FBX format/structure-window.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/structure-window.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "structure-doorway-wide",
+    "source": "Models/FBX format/structure-doorway-wide.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/structure-doorway-wide.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "structure-tall",
+    "source": "Models/FBX format/structure-tall.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/structure-tall.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "hopper-high-round",
+    "source": "Models/FBX format/hopper-high-round.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/hopper-high-round.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "piston-round",
+    "source": "Models/FBX format/piston-round.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/piston-round.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "crane-lift",
+    "source": "Models/FBX format/crane-lift.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/crane-lift.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "screen-panel-small",
+    "source": "Models/FBX format/screen-panel-small.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/screen-panel-small.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "screen-small",
+    "source": "Models/FBX format/screen-small.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/screen-small.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "box-large",
+    "source": "Models/FBX format/box-large.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/box-large.fbx"
+  },
+  {
+    "pack": "KenneyFactory",
+    "model": "floor",
+    "source": "Models/FBX format/floor.fbx",
+    "path": "Assets/ThirdParty/KenneyFactory/Models/floor.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Column_Round",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Round.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Column_Round.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Column_Simple",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Simple.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Column_Simple.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Column_Pipes",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_Pipes.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Column_Pipes.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Column_MetalSupport",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Columns/Column_MetalSupport.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Column_MetalSupport.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Door_Frame_Square",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_Frame_Square.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Door_Frame_Square.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Door_Simple",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Door_Simple.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Door_Simple.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Platform_Simple",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_Simple.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Platform_Simple.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Platform_Metal",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_Metal.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Platform_Metal.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Platform_Stairs_4",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_Stairs_4.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Platform_Stairs_4.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Platform_Stairs_4Wide",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_Stairs_4Wide.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Platform_Stairs_4Wide.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Platform_Rails_4",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Platforms/Platform_Rails_4.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Platform_Rails_4.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Prop_AccessPoint",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_AccessPoint.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Prop_AccessPoint.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Prop_Computer",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Computer.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Prop_Computer.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Prop_Fan_Small",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Fan_Small.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Prop_Fan_Small.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Prop_Light_Wide",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Light_Wide.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Prop_Light_Wide.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Prop_Rail_4",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Rail_4.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Prop_Rail_4.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Prop_Vent_Wide",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Vent_Wide.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Prop_Vent_Wide.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Prop_Vent_Big",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Vent_Big.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Prop_Vent_Big.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "Prop_Cable_3",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Props/Prop_Cable_3.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/Prop_Cable_3.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "WallBand_Straight",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallBand_Straight.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/WallBand_Straight.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "WallAstra_Straight_Flat",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallAstra_Straight_Flat.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/WallAstra_Straight_Flat.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "WallWindow_Straight",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/WallWindow_Straight.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/WallWindow_Straight.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "BottomSimple_Straight",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/BottomSimple_Straight.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/BottomSimple_Straight.fbx"
+  },
+  {
+    "pack": "Quaternius",
+    "model": "TopSimple_Straight",
+    "source": "Modular SciFi MegaKit[Standard]/FBX (Unity)/Walls/TopSimple_Straight.fbx",
+    "path": "Assets/ThirdParty/Quaternius/Models/TopSimple_Straight.fbx"
+  }
+]

@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 818517d8cc7e7474d9bc223ac65a6e62, type: 3}
+  m_Name: ImportedCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::Unobserved.ImportedCatalog
+  entries:
+  - key: KenneyFactory/box-large
+    prefab: {fileID: 2618882249328137029, guid: f218d74988289e34c94998be9facc116, type: 3}
+    size: {x: 1.1, y: 0.55, z: 1}
+  - key: KenneyFactory/catwalk-corner
+    prefab: {fileID: 5816021819068245211, guid: 6cf3410dc5485a54bbf5e2f1d8b2de24, type: 3}
+    size: {x: 1.1541197, y: 0.601367, z: 1.1541198}
+  - key: KenneyFactory/catwalk-stairs
+    prefab: {fileID: 3072488687910593094, guid: 201916596a1bb9a4394eff2e3a10a964, type: 3}
+    size: {x: 1.255487, y: 1.4000001, z: 2.0000005}
+  - key: KenneyFactory/catwalk-straight
+    prefab: {fileID: 7001007542160888048, guid: 0bfb9a511d2485b4f9debb8d10bed5cc, type: 3}
+    size: {x: 1.2554868, y: 0.601367, z: 1.0000002}
+  - key: KenneyFactory/crane-lift
+    prefab: {fileID: 1963607827097877404, guid: 8c3b1aeb61916f34dbe91b609a478bf9, type: 3}
+    size: {x: 0.71666664, y: 2.4999995, z: 0.71666664}
+  - key: KenneyFactory/floor
+    prefab: {fileID: 588873405755318341, guid: 2d7d054e021309648b882f9b8b2dfc8b, type: 3}
+    size: {x: 1, y: 2.4063714e-16, z: 1}
+  - key: KenneyFactory/hopper-high-round
+    prefab: {fileID: 4335701973818034540, guid: 0def16fcd33e7634683f3707e97b41ff, type: 3}
+    size: {x: 1.1181976, y: 1.5, z: 1.1181976}
+  - key: KenneyFactory/machine-connection-pipe
+    prefab: {fileID: 6112678601111372582, guid: 386da932aaaefc1488821382cda15d9d, type: 3}
+    size: {x: 1.2, y: 1.7500001, z: 1.5}
+  - key: KenneyFactory/machine-fortified
+    prefab: {fileID: 3388597556974225883, guid: 9baa16b357fc6d943aeecfc741c73036, type: 3}
+    size: {x: 1.2, y: 1.3504988, z: 1.5999999}
+  - key: KenneyFactory/machine-window
+    prefab: {fileID: 7805224145767311171, guid: b06f157f11d02924fb9aa7664d434da7, type: 3}
+    size: {x: 1.2, y: 1.2897067, z: 1.5}
+  - key: KenneyFactory/machine
+    prefab: {fileID: 7845484406438300381, guid: 098696ac226430842994ff09ddc61812, type: 3}
+    size: {x: 1.2, y: 1.2997519, z: 1.5}
+  - key: KenneyFactory/pipe-large-bend
+    prefab: {fileID: 8804481031186778065, guid: d16dff911531dce4fb0d055eb0b310cf, type: 3}
+    size: {x: 1.8999999, y: 1.0002393, z: 1.9000001}
+  - key: KenneyFactory/pipe-large-junction
+    prefab: {fileID: 3983285015992423426, guid: f89624170681db849a10937ab30538e3, type: 3}
+    size: {x: 2.0556347, y: 2.0556347, z: 1}
+  - key: KenneyFactory/pipe-large-long
+    prefab: {fileID: 9045419692303516202, guid: 2cbb231a52912d540b60ed662036a8c5, type: 3}
+    size: {x: 1.9999998, y: 1, z: 1}
+  - key: KenneyFactory/pipe-large-valve
+    prefab: {fileID: 1355764314655979212, guid: ba14bc8843001b347a620c9a04ae57a0, type: 3}
+    size: {x: 1, y: 1, z: 1.0156009}
+  - key: KenneyFactory/piston-round
+    prefab: {fileID: 3975384827231401883, guid: 54238dcd682a91f498a10c1a99d351ec, type: 3}
+    size: {x: 1, y: 1, z: 1}
+  - key: KenneyFactory/screen-panel-small
+    prefab: {fileID: 2369248139061510404, guid: 24ecf185b88b46c47ae03f5922596b18, type: 3}
+    size: {x: 0.6, y: 0.9913094, z: 0.65721166}
+  - key: KenneyFactory/screen-small
+    prefab: {fileID: 8036844754768997033, guid: bda89320fbc19e2418fb58caa69bfe6c, type: 3}
+    size: {x: 0.6, y: 0.9913094, z: 0.49924472}
+  - key: KenneyFactory/structure-doorway-wide
+    prefab: {fileID: 3174829442368827743, guid: 88f351e35063e02429ec513924de6330, type: 3}
+    size: {x: 2, y: 3, z: 2}
+  - key: KenneyFactory/structure-tall
+    prefab: {fileID: 3732011343742313884, guid: 7f76dd8322a11db4d8630fa7dd2b237e, type: 3}
+    size: {x: 0.3, y: 2, z: 1.1}
+  - key: KenneyFactory/structure-wall
+    prefab: {fileID: 6006151318306627402, guid: 48f29e316cc82ed4a9bf05763ffd142f, type: 3}
+    size: {x: 1, y: 3, z: 2}
+  - key: KenneyFactory/structure-window
+    prefab: {fileID: 1774207425616505179, guid: 0bf32adc51685544dbbd998b35089dbb, type: 3}
+    size: {x: 1, y: 3, z: 2}
+  - key: KenneyFurniture/bench
+    prefab: {fileID: 7867015801027389317, guid: 65163323443dd5f44b745dd0bfd39428, type: 3}
+    size: {x: 4, y: 4.7, z: 2}
+  - key: KenneyFurniture/benchCushion
+    prefab: {fileID: 1990124781592229203, guid: 1e7a3af49a95d524487a754cd1eb9971, type: 3}
+    size: {x: 4, y: 4.6, z: 2}
+  - key: KenneyFurniture/bookcaseClosed
+    prefab: {fileID: 9158053175231176500, guid: 50969db3a6ebc1a4e90c6ecbd05adf7e, type: 3}
+    size: {x: 4, y: 8.5, z: 2.5}
+  - key: KenneyFurniture/bookcaseClosedDoors
+    prefab: {fileID: 773854464919982438, guid: e2e23529f0c67a34e8e2271c38a41ef9, type: 3}
+    size: {x: 4, y: 8.5, z: 2.5}
+  - key: KenneyFurniture/bookcaseOpen
+    prefab: {fileID: 5928704681362634792, guid: ec2987a1e2fb5b1428d4e11203216f0c, type: 3}
+    size: {x: 4, y: 8.799999, z: 2.5}
+  - key: KenneyFurniture/books
+    prefab: {fileID: 876547945923348756, guid: 62976c9b06c301147badcc3e20909121, type: 3}
+    size: {x: 1.504476, y: 1.039023, z: 0.945}
+  - key: KenneyFurniture/cardboardBoxClosed
+    prefab: {fileID: 1870960563812526994, guid: 07c876cc809ff08489d24d36a75d33b9, type: 3}
+    size: {x: 2.125, y: 2.81, z: 2.125}
+  - key: KenneyFurniture/chairDesk
+    prefab: {fileID: 8834058724204738065, guid: f22e0910b79be714095d4cba345b3910, type: 3}
+    size: {x: 3.3495, y: 6.076, z: 3.14299}
+  - key: KenneyFurniture/computerKeyboard
+    prefab: {fileID: 3481406204440348549, guid: 78d5b218365529b458e078bf9454a716, type: 3}
+    size: {x: 2.822, y: 0.27556, z: 1.18192}
+  - key: KenneyFurniture/computerScreen
+    prefab: {fileID: 6151687746933493001, guid: 725bf815d25f41f4e934f5f15f05d7c6, type: 3}
+    size: {x: 3.92688, y: 2.942852, z: 1.04004}
+  - key: KenneyFurniture/desk
+    prefab: {fileID: 8030410177754016103, guid: 3ccc277ea8156e745870a00dd535b260, type: 3}
+    size: {x: 7.3447537, y: 3.844075, z: 3.9229999}
+  - key: KenneyFurniture/doorway
+    prefab: {fileID: 4420120658954340023, guid: 097bce79f605a134c88b9addb97c9e03, type: 3}
+    size: {x: 4.86, y: 10.09532, z: 1.134}
+  - key: KenneyFurniture/kitchenBar
+    prefab: {fileID: 6227314620669629022, guid: b1c245cc889113c4781f87c6e1bd4b39, type: 3}
+    size: {x: 4.3, y: 4.2, z: 2.1}
+  - key: KenneyFurniture/kitchenBarEnd
+    prefab: {fileID: 6513504451322533482, guid: 7c8b74163adbdb648bda4af5a0fcd26a, type: 3}
+    size: {x: 1.015625, y: 4.2, z: 2.1}
+  - key: KenneyFurniture/kitchenCabinetDrawer
+    prefab: {fileID: 5499633754824186496, guid: df91ca1c812a06547844d540b4bfb7d5, type: 3}
+    size: {x: 4.3, y: 4.5, z: 4.5}
+  - key: KenneyFurniture/lampSquareCeiling
+    prefab: {fileID: 5415742250222575381, guid: eca45b95b3366f44e9f19cb57435243c, type: 3}
+    size: {x: 1.2, y: 2.3, z: 1.2}
+  - key: KenneyFurniture/lampWall
+    prefab: {fileID: 2482159155094306848, guid: 1d8a53dec34b1334c893b569c66391cf, type: 3}
+    size: {x: 2.2663534, y: 0.928, z: 1.5033599}
+  - key: KenneyFurniture/loungeChair
+    prefab: {fileID: 4622095570573607761, guid: 54153aa2c14e2ed419e1192d89e8a579, type: 3}
+    size: {x: 4.9, y: 4.6, z: 4.1}
+  - key: KenneyFurniture/loungeSofa
+    prefab: {fileID: 1630258657412369499, guid: f64d8e3e2156c944ca90d42014f26823, type: 3}
+    size: {x: 9.799999, y: 4.6, z: 4.1}
+  - key: KenneyFurniture/paneling
+    prefab: {fileID: 4468933243897553815, guid: 8131691bb7e7b0a4385cb4072fd84090, type: 3}
+    size: {x: 5, y: 5.947659, z: 0.3}
+  - key: KenneyFurniture/pottedPlant
+    prefab: {fileID: 4576661826721706750, guid: 411c869c775c23b47a2b43b6820d590e, type: 3}
+    size: {x: 2.120593, y: 6.540168, z: 2.414619}
+  - key: KenneyFurniture/stairs
+    prefab: {fileID: 8147921930263708248, guid: 5260988e18cd49e438e563ff9208c31b, type: 3}
+    size: {x: 7.9000034, y: 13.39532, z: 18.234352}
+  - key: KenneyFurniture/stairsOpen
+    prefab: {fileID: 4711530574844396004, guid: 6a40d11e706122449839428620d6b73e, type: 3}
+    size: {x: 7.9000034, y: 13.39532, z: 18.234352}
+  - key: KenneyFurniture/tableCoffee
+    prefab: {fileID: 5393515267245094439, guid: 32c94ab48e1ef3e4c994f6841b9dffa2, type: 3}
+    size: {x: 6.609961, y: 2.3, z: 4}
+  - key: KenneyFurniture/trashcan
+    prefab: {fileID: 1492405980754272769, guid: 8e6aa08db22278c48b2b493e19b0f41a, type: 3}
+    size: {x: 2.0769355, y: 4.2786603, z: 2.341243}
+  - key: KenneyFurniture/wall
+    prefab: {fileID: 4505945906651981973, guid: ec4b8e10f8213094f80e50c971f5b50f, type: 3}
+    size: {x: 10, y: 12.89532, z: 0.5}
+  - key: KenneyFurniture/wallWindow
+    prefab: {fileID: 9200424632253400474, guid: aa34e607d4d21214cbbc64ed70357c21, type: 3}
+    size: {x: 10, y: 12.89532, z: 0.89100003}
+  - key: Quaternius/BottomSimple_Straight
+    prefab: {fileID: 236899061821983513, guid: ae4b0219aed49e249895be9375324e55, type: 3}
+    size: {x: 4.000001, y: 0.020000326, z: 0.6000007}
+  - key: Quaternius/Column_MetalSupport
+    prefab: {fileID: 5481595508646949020, guid: 2474e2421434cfc4fa2cf0de7fc1aabb, type: 3}
+    size: {x: 0.956629, y: 4.0000005, z: 0.044009272}
+  - key: Quaternius/Column_Pipes
+    prefab: {fileID: 436367660561601, guid: 9667d5d8ac1694f47afce6a03c4516bd, type: 3}
+    size: {x: 0.8746282, y: 5, z: 0.8746282}
+  - key: Quaternius/Column_Round
+    prefab: {fileID: 159448703526831642, guid: f54e9e6b0f43687459540a7a69f91cee, type: 3}
+    size: {x: 1, y: 5, z: 1}
+  - key: Quaternius/Column_Simple
+    prefab: {fileID: 3314069351923043650, guid: 58422deee4f551a459646a726dab482e, type: 3}
+    size: {x: 0.5068493, y: 4.999999, z: 0.9748794}
+  - key: Quaternius/Door_Frame_Square
+    prefab: {fileID: 7654635441532750147, guid: fb5d27c6353e86b4d96d6c5a00ce1260, type: 3}
+    size: {x: 4.85345, y: 5.0134254, z: 0.5068493}
+  - key: Quaternius/Door_Simple
+    prefab: {fileID: 1675853592852217088, guid: 90d625c60bf94644ab1811a01e199d56, type: 3}
+    size: {x: 2.105721, y: 4.048902, z: 0.27263778}
+  - key: Quaternius/Platform_Metal
+    prefab: {fileID: 3503963612746711169, guid: 1b56b5bd95b748f4caf2f78d9f8ae9aa, type: 3}
+    size: {x: 4, y: 0, z: 4}
+  - key: Quaternius/Platform_Rails_4
+    prefab: {fileID: 5077832754321640772, guid: 3676a979885c01a4d9e7114aa06ddbc5, type: 3}
+    size: {x: 2.358422, y: 2.716824, z: 3.8025913}
+  - key: Quaternius/Platform_Simple
+    prefab: {fileID: 5936526317592009137, guid: a79bb501297f37143bcc29ba0ad3fd6b, type: 3}
+    size: {x: 4, y: 0, z: 4}
+  - key: Quaternius/Platform_Stairs_4
+    prefab: {fileID: 3062463893553032311, guid: c6ffb6774f1218943ad07db38a3a635c, type: 3}
+    size: {x: 2.000148, y: 2.0081577, z: 4.0827117}
+  - key: Quaternius/Platform_Stairs_4Wide
+    prefab: {fileID: 7928230378663780608, guid: 8e5a67547dec52345b66de236db6bd5c, type: 3}
+    size: {x: 4.0000515, y: 2.0081577, z: 4.082712}
+  - key: Quaternius/Prop_AccessPoint
+    prefab: {fileID: 172063475560076943, guid: cc95b35705c0fa84ea8502b54fd61630, type: 3}
+    size: {x: 0.44116926, y: 0.46789396, z: 1.2962623}
+  - key: Quaternius/Prop_Cable_3
+    prefab: {fileID: 896229816033941601, guid: 06579d79d68703c4b991f3c457eecbbb, type: 3}
+    size: {x: 1.5598958, y: 0.11698265, z: 5.734548}
+  - key: Quaternius/Prop_Computer
+    prefab: {fileID: 8331353338023109347, guid: 14893f9988ab68743a094027eddb8bf0, type: 3}
+    size: {x: 0.7433526, y: 1.5927559, z: 0.56245923}
+  - key: Quaternius/Prop_Fan_Small
+    prefab: {fileID: 1270837718175082073, guid: eecd27052c6c8c04287f7265293ed428, type: 3}
+    size: {x: 1.6768343, y: 1.6768342, z: 0.44240916}
+  - key: Quaternius/Prop_Light_Wide
+    prefab: {fileID: 8287954557346552087, guid: fe72f7e0f15bca6478d20456f1800f99, type: 3}
+    size: {x: 2.6404886, y: 0.18190534, z: 0.44531938}
+  - key: Quaternius/Prop_Rail_4
+    prefab: {fileID: 1714601163958779465, guid: 96cb7aa6e88901945a50094a6c9b099a, type: 3}
+    size: {x: 0.06660092, y: 0.8623677, z: 3.9256976}
+  - key: Quaternius/Prop_Vent_Big
+    prefab: {fileID: 5612506498930109568, guid: 11b4b5beff8fc354b99cf31ed09110c8, type: 3}
+    size: {x: 2.0003748, y: 0.9764097, z: 0.06878686}
+  - key: Quaternius/Prop_Vent_Wide
+    prefab: {fileID: 2715208835037196933, guid: db4816eb9ec19554b9a3c0f49767503e, type: 3}
+    size: {x: 1.9382904, y: 0.2909761, z: 0.0595265}
+  - key: Quaternius/TopSimple_Straight
+    prefab: {fileID: 3986521252297459576, guid: 5a2318b3f4206ab4da1e7e827bcc13b2, type: 3}
+    size: {x: 4.0000005, y: 2, z: 0.00000047683716}
+  - key: Quaternius/WallAstra_Straight_Flat
+    prefab: {fileID: 7864946918083189752, guid: 5524502dc7393a0409432f4a1b43d7f5, type: 3}
+    size: {x: 4.0000014, y: 3.0000002, z: 0.100000635}
+  - key: Quaternius/WallBand_Straight
+    prefab: {fileID: 3777919244322375178, guid: 5e6d1e0391742ec4aac856896951c1a0, type: 3}
+    size: {x: 4.0000005, y: 3, z: 0.2075018}
+  - key: Quaternius/WallWindow_Straight
+    prefab: {fileID: 2650404615541041451, guid: 5d4748ffbb9982f4d84956254005f360, type: 3}
+    size: {x: 4.0000014, y: 3.1865523, z: 0.3200766}

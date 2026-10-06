@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f075c26a49d9bd14295c7d2887aa139b, type: 3}
+  m_Name: State_3
+  m_EditorClassIdentifier: Assembly-CSharp::Unobserved.RealityState
+  form: 4
+  color: {r: 0.445, g: 0.525, b: 0.46, a: 1}
+  displayName: Absence

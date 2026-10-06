@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416094df3693adc4093a6a759472ae60, type: 3}
+  m_Name: Theme_0
+  m_EditorClassIdentifier: Assembly-CSharp::Unobserved.EnvironmentThemeData
+  walls: {r: 0.62, g: 0.6, b: 0.52, a: 1}
+  floor: {r: 0.27, g: 0.29, b: 0.25, a: 1}
+  accent: {r: 0.88, g: 0.89, b: 0.77, a: 1}
+  fog: {r: 0.1426, g: 0.13800001, b: 0.1196, a: 0.23}
+  fogDensity: 0.012
+  ambiencePitch: 1
+  lightIntensity: 1.4
